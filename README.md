@@ -11,4 +11,4 @@ This implementation uses the PerfGen sample. It changes the code for constant va
 load the driver entries into the registry using the following command line: *REGEDIT PERFGEN.REG*
 3. load the performance names into the registry using the command line: *LODCTR PERFGEN.INI*
 
-After that you may find counter in the Peromance monitor - Signal - NumberOfBytes
+After that you may find counter in the Peromance monitor - Signal generator - NumberOfBytes
